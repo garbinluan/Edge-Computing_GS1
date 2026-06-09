@@ -24,7 +24,7 @@ O projeto utiliza conceitos de **Edge Computing**, onde todas as decisões são 
 # 🖼️ Montagem do Circuito
 
 <p align="center">
-  <img src="assets/circuito.png" alt="Circuito Arduino OrbitEye" width="700">
+  <img src="https://github.com/user-attachments/assets/f7e87fc9-f985-4d5f-a00c-f44456381c18" alt="Circuito Arduino OrbitEye" width="700"> 
 </p>
 
 <p align="center">
